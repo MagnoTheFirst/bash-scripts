@@ -22,6 +22,6 @@ tag+=${datetime}
 echo ${tag}
 $tag
 docker images
-docker image rm -f $image
+docker image rm $image -f 
 #echo '--------------' $image
 docker images

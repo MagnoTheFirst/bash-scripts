@@ -1,0 +1,1 @@
+bitnami/prometheus            latest    22ff77db1986   2 days ago      334MB
